@@ -7,7 +7,7 @@ This mod adds multiplayer to shapez.io.
 -   The game is hosted at `https://mods.thomasbrants.nl`
 -   Its only in English and Dutch (Not much more text has been added).
 
-## How to add mutliplayer mod on modloader:
+## How to add multiplayer mod on modloader:
 
 If no existing instance:
 
